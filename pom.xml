@@ -7,7 +7,7 @@
     <name>AndEngine Cocos Builder</name>
 
     <properties>
-        <android.version>4.4.2_r2</android.version>
+        <android.version>4.4.2_r3</android.version>
         <android.support.version>[18,)</android.support.version>
 
         <maven.android.plugin.verson>3.8.2</maven.android.plugin.verson>
